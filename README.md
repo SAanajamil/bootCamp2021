@@ -10,7 +10,7 @@ Step 3: Install a Programmer’s Editor (https://code.visualstudio.com)
 
 Initializing the Project Folder Package.Json run this command (npm init --yes)
 
-Creating the Compiler Configuration File tsconfig.json.write mentioned below code in this file.
+Creating the Compiler Configuration File tsconfig.json.write mentioned below code.
 
 {
  "compilerOptions": {
@@ -24,7 +24,7 @@ Creating the Compiler Configuration File tsconfig.json.write mentioned below cod
  "module": "commonjs"
  }
 }
-Adding a TypeScript Code File index.ts in src file.
+Adding a TypeScript Code File index.ts in src folder.
 
 Compiling the Code by "tsc"
 
